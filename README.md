@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ZaninDe/to-do-reactjs/blob/main/public/recording.gif" width="900" height="500" />
+  <img src="https://github.com/ZaninDe/github-exporer/blob/main/public/gi.gif" width="900" height="500" />
 </p>
 
 ## ✨ Tech
